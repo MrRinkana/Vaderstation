@@ -3,7 +3,7 @@
 
 
 ABOUT:
-  Personal DIY weatherstation project
+  Personal DIY weatherstation project. Arduino C++ (exept for non "directly coding" parts)
     Currently the goal is to make this code have the same fuctionality as "logger03" but a lot better-written. By "better written"
     I mean easier to read and understand, easier to build upon (add or remove parts) and more robust code that also runs more 
     efficient and allows for future increased complexity. This is because the project goal is a fully flexed Wheatherstation that
