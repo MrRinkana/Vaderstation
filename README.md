@@ -3,7 +3,9 @@
 
 
 ABOUT:
+
   Personal DIY weatherstation project. Arduino C++ (exept for non "directly coding" parts)
+  
     Currently the goal is to make this code have the same fuctionality as "logger03" but a lot better-written. By "better written"
     I mean easier to read and understand, easier to build upon (add or remove parts) and more robust code that also runs more 
     efficient and allows for future increased complexity. This is because the project goal is a fully flexed Wheatherstation that
@@ -13,6 +15,7 @@ ABOUT:
     leaving the backup battery for the lower power consuming arduino/teensy. Thats at least the plan now.
 
 VERSION LEGEND:
+
   Alpha = not up to the original functionality of "logger03".
   Beta = same or increased functionality of "logger03".
   Full version = Code incoperates all currently owned sensors relevant to the project, with wireless comunication to a outside 
