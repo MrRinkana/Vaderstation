@@ -1,7 +1,7 @@
 //Object oriented code for diy home weatherstation. ver. 4.0_lcd build
 
 //Code written by Max Bäckström, also utilising code written by: Marshall Taylor @ Sparkfun Electronics, x, y, z, (authors of libraries or example code).
-//Code is open source under Creative Commons license (CC BY-SA).
+//Code is open source under GNU GENERAL PUBLIC LICENSE v3.0.
 
 //Comments are in Swedish, variables and such in English or in common abbreviations.
 
